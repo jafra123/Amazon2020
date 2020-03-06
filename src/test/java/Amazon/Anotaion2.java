@@ -10,6 +10,7 @@ public class Anotaion2 {
 	public void test1() {
 		System.out.println("test1");
 		driver.get("http://www.google.com");
+		// chaged
 	}
 	@Test
     public void test2() {
