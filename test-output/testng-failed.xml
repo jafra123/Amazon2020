@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [My Test Suite]">
+  <test name="My Test(failed)">
+    <classes>
+      <class name="Amazon.FooterValidation">
+        <methods>
+          <include name="alllinksTest"/>
+          <include name="TestAustralia"/>
+          <include name="teadown"/>
+        </methods>
+      </class> <!-- Amazon.FooterValidation -->
+    </classes>
+  </test> <!-- My Test(failed) -->
+</suite> <!-- Failed suite [My Test Suite] -->

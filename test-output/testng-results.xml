@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="73706" started-at="2020-03-06T03:24:05Z" finished-at="2020-03-06T03:25:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="73706" started-at="2020-03-06T03:24:05Z" finished-at="2020-03-06T03:25:18Z">
+      <class name="Amazon.ClickOnLeftArrowRightArrow">
+        <test-method status="PASS" signature="alllinksTest()[pri:0, instance:Amazon.ClickOnLeftArrowRightArrow@724af044]" name="alllinksTest" duration-ms="24460" started-at="2020-03-05T21:24:22Z" finished-at="2020-03-05T21:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alllinksTest -->
+      </class> <!-- Amazon.ClickOnLeftArrowRightArrow -->
+      <class name="Amazon.FooterValidation">
+        <test-method status="PASS" signature="alllinksTest()[pri:0, instance:Amazon.FooterValidation@d8355a8]" name="alllinksTest" is-config="true" duration-ms="17352" started-at="2020-03-05T21:24:05Z" finished-at="2020-03-05T21:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alllinksTest -->
+        <test-method status="PASS" signature="TestAustralia()[pri:0, instance:Amazon.FooterValidation@d8355a8]" name="TestAustralia" duration-ms="7507" started-at="2020-03-05T21:24:47Z" finished-at="2020-03-05T21:24:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAustralia -->
+        <test-method status="PASS" signature="TestBrazil()[pri:0, instance:Amazon.FooterValidation@d8355a8]" name="TestBrazil" duration-ms="19030" started-at="2020-03-05T21:24:54Z" finished-at="2020-03-05T21:25:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBrazil -->
+        <test-method status="PASS" signature="teadown()[pri:0, instance:Amazon.FooterValidation@d8355a8]" name="teadown" is-config="true" duration-ms="5325" started-at="2020-03-05T21:25:13Z" finished-at="2020-03-05T21:25:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teadown -->
+      </class> <!-- Amazon.FooterValidation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Amazon.AnotationsTeest">
+        <methods>
+          <include name="SampleClass1tes1AfterSuite"/>
+          <include name="SampleClass1tes1BeforeClass"/>
+          <include name="SampleClass1tes3"/>
+          <include name="SampleClass1tes4AfterTest"/>
+          <include name="SampleClass1tes1BeforeSuite"/>
+          <include name="SampleClass1tes1AfterClass"/>
+          <include name="SampleClass1tes1AfterMethod"/>
+          <include name="SampleClass1tes1BeforeTest"/>
+          <include name="SampleClass1tes2"/>
+          <include name="SampleClass1tes1BeforeMethod"/>
+          <include name="SampleClass1tes1"/>
+        </methods>
+      </class> <!-- Amazon.AnotationsTeest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
