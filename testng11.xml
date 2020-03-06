@@ -4,8 +4,8 @@
   <test thread-count="5" name="Test">
     <classes>
     
-      <class name="Amazon.AnotationsTeest"/>
-      <parameter name="first-name"  value="Manmohan"/>  
+      <class name="Amazon.Anotaion2"/>
+     <!--  <parameter name="first-name"  value="Manmohan"/>   -->
          
      
       

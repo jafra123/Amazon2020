@@ -32,6 +32,5 @@ public class ClickOnLeftArrowRightArrow {
 		String newxpath1 =Xpath_previousAndForrword.replace("xpathruntime", "previous");	    
 	driver.findElement(By.xpath(newxpath1)).click();
 	}
-	
 	}
 	}
