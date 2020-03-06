@@ -25,6 +25,7 @@ public class ClickOnLeftArrowRightArrow {
 	for(int i=0; i<10; i++) {   
 		String newxpath =Xpath_previousAndForrword.replace("xpathruntime", "next");	    
 	driver.findElement(By.xpath(newxpath)).click();
+	Thread.sleep(2000);
 	}
 	
 	for(int i=0; i<10; i++) {   
