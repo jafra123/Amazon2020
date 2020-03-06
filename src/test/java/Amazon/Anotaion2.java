@@ -11,6 +11,7 @@ public class Anotaion2 {
 		System.out.println("test1");
 		driver.get("http://www.google.com");
 		// chaged
+		//manmohan
 	}
 	@Test
     public void test2() {
